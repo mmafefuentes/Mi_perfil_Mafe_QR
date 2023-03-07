@@ -1,5 +1,5 @@
 # Mi_perfil_Mafe_QR
-<img src="image/imagesmm.jpg" alt="Employee Data" width="140" height="180" title="Employee Data title" >
+<img src="imagesmm.jpg" alt="Employee Data" width="140" height="180" title="Employee Data title" >
 
 # **MARIA FERNANDA FUENTES MONTES**
 ----
@@ -11,8 +11,8 @@ Ingeniera de sistemas de informacion pendiente de grado con experiencia administ
 ----
 ***Certificado de Appi connect***
 ----
-<img src="image/Capturatt.PNG" alt="Employee Data" width="140" height="180"> 
+<img src="Capturatt.PNG" alt="Employee Data" width="140" height="180"> 
 
 ***Certificado IBM Data Power Gateway 7.6***
 ----
-<img src="image/Capturall.PNG" alt="Employee Data" width="140" height="180">
+<img src="Capturall.PNG" alt="Employee Data" width="140" height="180">
