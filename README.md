@@ -25,6 +25,9 @@ Ingeniera de sistemas de informacion pendiente de grado con experiencia administ
 ***CONTACTAME***
 
 Correo: mafefuentes11@hotmail.com
+---
 Cel: 3053236002 - 3114013027 
-Direccion: calle 41A sur  #17a - 93 este. 
+---
+Direccion: calle 41A sur  #17a - 93 este.
+---
 www.linkedin.com/in/maria-fernanda-fuentes-montes-6690a5213
