@@ -1,4 +1,3 @@
-# Mi_perfil_Mafe_QR
 <img src="imge.png" alt="Employee Data" width="140" height="180" title="Employee Data title" >
 
 # **MARIA FERNANDA FUENTES MONTES**
