@@ -1,5 +1,6 @@
 # Mi_perfil_Mafe_QR
-<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fco.bebee.com%2Fbee%2Fmaria-fernanda-fuentes-montes&psig=AOvVaw2gWiHAwt9YX34ppStcWn9K&ust=1678317792152000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCPCeoZD7yv0CFQAAAAAdAAAAABAE" alt="Employee Data" width="140" height="180" title="Employee Data title" >
+<img src="![image](https://user-images.githubusercontent.com/88210735/224156517-c9bb5bb1-59c6-4859-9c70-47a422a2610d.png)
+" alt="Employee Data" width="140" height="180" title="Employee Data title" >
 
 # **MARIA FERNANDA FUENTES MONTES**
 ----
