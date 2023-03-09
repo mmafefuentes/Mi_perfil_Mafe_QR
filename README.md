@@ -1,6 +1,7 @@
-<img src="imge.png" alt="Employee Data" width="140" height="180" title="Employee Data title" >
 
-# **MARIA FERNANDA FUENTES MONTES**
+[![imge.png](https://i.postimg.cc/y8QMgq60/imge.png)](https://postimg.cc/0zSWFBwN)
+
+###MARIA FERNANDA FUENTES MONTES**
 ----
 ***INGENIERA DE SISTEMAS DE INFORMACION***
 
