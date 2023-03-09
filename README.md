@@ -1,7 +1,7 @@
 
 [![imge.png](https://i.postimg.cc/y8QMgq60/imge.png)](https://postimg.cc/0zSWFBwN)
 
-###MARIA FERNANDA FUENTES MONTES**
+***MARIA FERNANDA FUENTES MONTES***
 ----
 ***INGENIERA DE SISTEMAS DE INFORMACION***
 
@@ -15,4 +15,4 @@ Ingeniera de sistemas de informacion pendiente de grado con experiencia administ
 
 ***Certificado IBM Data Power Gateway 7.6***
 ----
-<img src="Capturall.PNG" alt="Employee Data" width="140" height="180">
+<img src="[![capturall-jpg.png](https://i.postimg.cc/tgsLFr7w/capturall-jpg.png)](https://postimg.cc/qtdbTxsx)" alt="Employee Data" width="140" height="180">
