@@ -15,4 +15,4 @@ Ingeniera de sistemas de informacion pendiente de grado con experiencia administ
 
 ***Certificado IBM Data Power Gateway 7.6***
 ----
-<img width="140" alt="capturall-jpg.png](https://i.postimg.cc/tgsLFr7w/capturall-jpg.png)](https://postimg.cc/qtdbTxsx)">
+<img width="140" alt="capturall-jpg.png](https://i.postimg.cc/tgsLFr7w/capturall-jpg.png)(https://postimg.cc/qtdbTxsx)">
