@@ -11,8 +11,7 @@ Ingeniera de sistemas de informacion pendiente de grado con experiencia administ
 ----
 ***Certificado de Appi connect***
 ----
-[![Capturatt-jpg.png](https://i.postimg.cc/767dWf3N/Capturatt-jpg.png)](https://postimg.cc/WFN5DpfD)
-
+[![Api-Conect1.png](https://i.postimg.cc/nr6wnZn1/Api-Conect1.png)](https://postimg.cc/2L7xxsbq)
 ***Certificado IBM Data Power Gateway 7.6***
 ----
 [![capturall-jpg.png](https://i.postimg.cc/x1NKVHZM/capturall-jpg.png)](https://postimg.cc/RW93c34Z)
