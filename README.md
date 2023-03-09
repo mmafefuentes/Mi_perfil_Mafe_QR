@@ -15,4 +15,11 @@ Ingeniera de sistemas de informacion pendiente de grado con experiencia administ
 
 ***Certificado IBM Data Power Gateway 7.6***
 ----
-[![capturall-jpg.png](https://i.postimg.cc/tgsLFr7w/capturall-jpg.png)](https://postimg.cc/qtdbTxsx)
+[![capturall-jpg.png](https://i.postimg.cc/x1NKVHZM/capturall-jpg.png)](https://postimg.cc/RW93c34Z)
+
+---
+***CONTACTAME***
+Correo: mafefuentes11@hotmail.com
+Cel: 3053236002 - 3114013027 
+Direccion: calle 41A sur  #17a - 93 este. 
+www.linkedin.com/in/maria-fernanda-fuentes-montes-6690a5213
