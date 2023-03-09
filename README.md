@@ -18,6 +18,7 @@ Ingeniera de sistemas de informacion pendiente de grado con experiencia administ
 [![capturall-jpg.png](https://i.postimg.cc/x1NKVHZM/capturall-jpg.png)](https://postimg.cc/RW93c34Z)
 
 ***Certificado de Appi connect***
+---
 [![Api1.png](https://i.postimg.cc/wM0LkQGR/Api1.png)](https://postimg.cc/sGGMj7y3)
 
 ---
