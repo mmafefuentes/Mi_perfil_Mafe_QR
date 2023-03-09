@@ -25,8 +25,11 @@ Ingeniera de sistemas de informacion pendiente de grado con experiencia administ
 ***EVENTOS CIENTIFICOS***
 ---
 -EIEI ACOFI 2018 - Cartagena (Ponente) - Septiembre 2019
+
 -IV Congreso Internacional de Ingeniería de Sistemas
+
 -Semana de la Ciencia, Tecnología e Innovación 2017
+
 -Encuentro Nacional e Internacional de Semilleros de Investigación Fundación Redcolsi
 
 ---
