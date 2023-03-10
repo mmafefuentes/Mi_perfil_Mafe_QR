@@ -1,4 +1,4 @@
-<img src="[![imge.png](https://i.postimg.cc/y8QMgq60/imge.png)](https://postimg.cc/0zSWFBwN)" width="200" height="200" />
+<img src="[![imge.png](https://i.postimg.cc/y8QMgq60/imge.png)](https://postimg.cc/0zSWFBwN)" width="300" height="280"/>
 
 <title>MARIA FERNANDA FUENTES MONTES</title>
 ---
