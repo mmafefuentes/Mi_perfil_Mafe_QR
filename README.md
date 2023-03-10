@@ -13,7 +13,7 @@
 ----
 [![Api-Conect1.png](https://i.postimg.cc/nr6wnZn1/Api-Conect1.png)](https://postimg.cc/2L7xxsbq)
 
-***Certificado IBM Data Power Gateway 7.6***
+**Certificado IBM Data Power Gateway 7.6**
 ----
 [![capturall-jpg.png](https://i.postimg.cc/x1NKVHZM/capturall-jpg.png)](https://postimg.cc/RW93c34Z)
 
