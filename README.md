@@ -7,7 +7,7 @@
 
 <p> Ingeniera de sistemas de informacion pendiente de grado con experiencia administracion de base de datos, manejode plataformas, con conocimientos en ingeniería del software y lenguajes de programación como Java, python, SQL, PHP Y HTML. Me considero una persona proactiva, responsable, organizada, creativa, me gusta el trabajo en equipo y Siempre tengo la mejor disposicion para la realizacion de mis labores.</p> 
 
-<h5>CERTIFICACIONES</h5>
+<h3>CERTIFICACIONES</h3>
 
 ***Certificado de Appi connect Enterprise 12***
 ----
@@ -22,7 +22,7 @@
 [![Api1.png](https://i.postimg.cc/wM0LkQGR/Api1.png)](https://postimg.cc/sGGMj7y3)
 
 ---
-<h3>EVENTOS CIENTIFICOS</h3>
+<h5>EVENTOS CIENTIFICOS</h5>
   
 -EIEI ACOFI 2018 - Cartagena (Ponente) - Septiembre 2019
 
