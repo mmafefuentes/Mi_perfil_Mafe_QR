@@ -2,6 +2,7 @@
 ---
 <h2>MARIA FERNANDA FUENTES MONTES</h2>
 
+---
 <h1>INGENIERA DE SISTEMAS DE INFORMACION</h1>
 
 <p> Ingeniera de sistemas de informacion pendiente de grado con experiencia administracion de base de datos, manejode plataformas, con conocimientos en ingeniería del software y lenguajes de programación como Java, python, SQL, PHP Y HTML. Me considero una persona proactiva, responsable, organizada, creativa, me gusta el trabajo en equipo y Siempre tengo la mejor disposicion para la realizacion de mis labores.</p> 
@@ -31,6 +32,7 @@
 
 -Encuentro Nacional e Internacional de Semilleros de Investigación Fundación Redcolsi
 
+---
 <h4>CONTACTAME</h4>
 
 Correo: mafefuentes11@hotmail.com
