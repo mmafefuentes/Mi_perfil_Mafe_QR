@@ -1,12 +1,12 @@
 [![imge.png](https://i.postimg.cc/y8QMgq60/imge.png)](https://postimg.cc/0zSWFBwN)
 ---
-<h5>MARIA FERNANDA FAUENTES MONTES</h5>
+<h2>MARIA FERNANDA FUENTES MONTES</h2>
 
 <h1>INGENIERA DE SISTEMAS DE INFORMACION</h1>
 
 <p> Ingeniera de sistemas de informacion pendiente de grado con experiencia administracion de base de datos, manejode plataformas, con conocimientos en ingeniería del software y lenguajes de programación como Java, python, SQL, PHP Y HTML. Me considero una persona proactiva, responsable, organizada, creativa, me gusta el trabajo en equipo y Siempre tengo la mejor disposicion para la realizacion de mis labores.</p> 
 
-<h2>CERTIFICACIONES</h2>
+<h5>CERTIFICACIONES</h5>
 
 ***Certificado de Appi connect Enterprise 12***
 ----
@@ -22,7 +22,6 @@
 
 ---
 <h3>EVENTOS CIENTIFICOS</h3>
----
   
 -EIEI ACOFI 2018 - Cartagena (Ponente) - Septiembre 2019
 
@@ -32,9 +31,8 @@
 
 -Encuentro Nacional e Internacional de Semilleros de Investigación Fundación Redcolsi
 
----
 <h4>CONTACTAME</h4>
----
+
 Correo: mafefuentes11@hotmail.com
 
 Cel: 3053236002 - 3114013027 
