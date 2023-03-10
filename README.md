@@ -1,13 +1,13 @@
 
 [![imge.png](https://i.postimg.cc/y8QMgq60/imge.png)](https://postimg.cc/0zSWFBwN)
 
-***MARIA FERNANDA FUENTES MONTES***
+<h1>MARIA FERNANDA FUENTES MONTES</h1>
 ----
-***INGENIERA DE SISTEMAS DE INFORMACION***
+<h2>INGENIERA DE SISTEMAS DE INFORMACION</h2>
 
 <p> Ingeniera de sistemas de informacion pendiente de grado con experiencia administracion de base de datos, manejode plataformas, con conocimientos en ingeniería del software y lenguajes de programación como Java, python, SQL, PHP Y HTML. Me considero una persona proactiva, responsable, organizada, creativa, me gusta el trabajo en equipo y Siempre tengo la mejor disposicion para la realizacion de mis labores.</p> 
 
-***CERTIFICACIONES***
+<h3>CERTIFICACIONES</h3>
 ----
 ***Certificado de Appi connect Enterprise 12***
 ----
