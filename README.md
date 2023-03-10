@@ -1,9 +1,6 @@
 [![imge.png](https://i.postimg.cc/y8QMgq60/imge.png)](https://postimg.cc/0zSWFBwN)
 ---
-<html>
-<head>
-<title>MARIA FERNANDA FAUENTES MONTES</title>
-</head>
+<h5>MARIA FERNANDA FAUENTES MONTES</h5>
 
 <h1>INGENIERA DE SISTEMAS DE INFORMACION</h1>
 
@@ -26,6 +23,7 @@
 ---
 <h3>EVENTOS CIENTIFICOS</h3>
 ---
+  
 -EIEI ACOFI 2018 - Cartagena (Ponente) - Septiembre 2019
 
 -IV Congreso Internacional de Ingeniería de Sistemas
@@ -44,4 +42,4 @@ Cel: 3053236002 - 3114013027
 Direccion: calle 41A sur  #17a - 93 este.
 
 www.linkedin.com/in/maria-fernanda-fuentes-montes-6690a5213
-  HTML/>
+ 
