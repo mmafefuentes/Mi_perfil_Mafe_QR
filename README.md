@@ -5,7 +5,7 @@
 ----
 ***INGENIERA DE SISTEMAS DE INFORMACION***
 
-Ingeniera de sistemas de informacion pendiente de grado con experiencia administracion de base de datos, manejode plataformas, con conocimientos en ingeniería del software y lenguajes de programación como Java, python, SQL, PHP Y HTML. Me considero una persona proactiva, responsable, organizada, creativa, me gusta el trabajo en equipo y Siempre tengo la mejor disposicion para la realizacion de mis labores.
+<p> Ingeniera de sistemas de informacion pendiente de grado con experiencia administracion de base de datos, manejode plataformas, con conocimientos en ingeniería del software y lenguajes de programación como Java, python, SQL, PHP Y HTML. Me considero una persona proactiva, responsable, organizada, creativa, me gusta el trabajo en equipo y Siempre tengo la mejor disposicion para la realizacion de mis labores.</p> 
 
 ***CERTIFICACIONES***
 ----
