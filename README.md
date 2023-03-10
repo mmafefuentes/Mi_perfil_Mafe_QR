@@ -1,5 +1,5 @@
 
-[![imge.png](https://i.postimg.cc/y8QMgq60/imge.png)](https://postimg.cc/0zSWFBwN)
+<img src="[![imge.png](https://i.postimg.cc/y8QMgq60/imge.png)](https://postimg.cc/0zSWFBwN)" width="100" height="100" />
 
 <title>MARIA FERNANDA FUENTES MONTES</title>
 ----
